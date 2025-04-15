@@ -7,3 +7,12 @@ Initially I shared an Excel workbook here and was encouraged to post Python note
 accessible.  I hope these notebooks help in that regard.
 
 Project website:  www.primegaps.info 
+
+NOTES on Dependencies:
+03_lambda_H14929.ipynb requires the data files primes23.npy, G23uint.npy, and cG23.npy
+   These were too large to upload.  They can be created with the files 01_Cycles.ipynb and 01A_closeG.ipynb
+
+21A_p-rough_interactive.ipynb requires the data files G29uint.npy and DelPhi29.npy
+   These were too large to upload.  The code to produce DelPhi29.npy is commented out in this same file.  The
+   cycle G29 can be produced from code in the file 01_Cycles.ipynb 
+   
