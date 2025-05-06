@@ -10,7 +10,7 @@ Project website:  www.primegaps.info
 
 NOTES on Dependencies:
 
-03_lambda_H14929.ipynb requires the data files primes23.npy, G23uint.npy, and cG23.npy
+03_lambda_H14929.ipynb and 03A_quaddensity_H14929,ipynb require the data files primes23.npy, G23uint.npy, and cG23.npy
    These were too large to upload.  They can be created with the notebooks 01_Cycles.ipynb and 01A_closeG.ipynb. 
    This code also reads the file of coefficients lj37.npy.  This data is constructed in the 02_wg.ipynb notebook.
 
