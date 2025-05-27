@@ -6,6 +6,8 @@ Over the years I have used R for the calculations and then Excel and Powerpoint 
 Initially I shared an Excel workbook here and was encouraged to post Python notebooks to make the work more 
 accessible.  I hope these notebooks help in that regard.
 
+The code here is licensed under the MIT License.
+
 Project website:  www.primegaps.info 
 
 NOTES on Dependencies:
